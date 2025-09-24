@@ -5,3 +5,6 @@ pandas
 soynlp
 altair
 tzdata
+wordcloud
+pillow
+matplotlib
